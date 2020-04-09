@@ -1,4 +1,4 @@
-Projeto de exemplo para o uso de eventos no React
+Projeto de exemplo para o uso do state no React
 
 ## Mais detalhes sobre esse estudo
 
